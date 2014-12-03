@@ -11,7 +11,8 @@ email: andrew.nguyen@usfca.edu
 #blog logo
 logo: "/assets/images/logo.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+#cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/ipad-in-operating-room.png"
 
 name: "Andrew Nguyen"
 author: "Andrew Nguyen"
