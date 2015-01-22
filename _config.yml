@@ -1,5 +1,7 @@
 # Build settings
 markdown: redcarpet
+redcarpet:
+  extensions: ["autolink", "no_intra_emphasis", "tables"]
 highlighter: pygments
 
 # Site settings
