@@ -15,15 +15,103 @@ permalink: /syllabus/
 ### [andrew.nguyen@usfca.edu](mailto:andrew.nguyen@usfca.edu) ###
 ###** EMAIL IS THE BEST WAY TO CONTACT ME **###
 <hr>
-### Office Hours ###
-| On campus &nbsp;&nbsp;&nbsp;&nbsp; |   |
-|:---------------|:--|
-|Tuesdays  | 330pm-430pm, 630pm-8pm |
-|Thursdays | 330pm-430pm |
+### Course Format / Structure###
+This will be an extremely fast-paced class since there is **A LOT** of material
+to cover.  The general structure for each module is:
 
-| Virtual/Zoom |   |
-|:---------------|:--|
-|Wednesdays| 6pm-8pm |
+1. Review all material prior to Tuesday's class and start project 
+2. Tuesdays will be an interactive discussion and should give you all of the
+   necessary "theory" to complete the assignment
+3. Thursdays will be a structured office hours to help you with the week's
+   project
+4. Projects are due on Sunday
+
+This course consists of 2 class meetings each week.  Tuesday's meeting will be a
+"lecture" though it will be more of an interactive discussion.  I expect that
+you will have done any required readings prior to the Tuesday meeting so that we
+can have an engaging discussion.  Thursdays will be more of a structured office
+hours where I will offer specific technical guidance for the week's project.
+To maximize your benefit, it is expected that you at least begin the project
+prior to Thursday's meeting.  Projects will be due the following Sunday.
+
+Here is the schedule for the semester (which may be updated as the course
+progresses):
+
+| Week | Module     | Project Due Date | Required Reading |
+|:----:|:----------:|:----------------:|:----------------:|
+| 1    | 1          | 2015-02-01       | [By 2015-01-27](/reading/module-1)  |
+| 2    | 2          | 2015-02-08       | [By 2015-02-03](/reading/module-2)  |
+| 3    | 3          | 2015-02-15       | [By 2015-02-10](/reading/module-3)  |
+| 4    | 4          | 2015-02-22       | [By 2015-02-17](/reading/module-4)  |
+| 5    | 5          | 2015-03-01       | [By 2015-02-24](/reading/module-5)  |
+| 6    | 6          | 2015-03-08       | [By 2015-03-03](/reading/module-6)  |
+| 7    | 7          | 2015-03-15       | [By 2015-03-10](/reading/module-7)  |
+| 8    | 8          | 2015-03-22       | [By 2015-03-17](/reading/module-8)  |
+| 9    | Midterm    | N/A              | N/A                                 |
+| 10   | 9          | 2015-04-05       | [By 2015-03-31](/reading/module-9)  |
+| 11   | 10         | 2015-04-12       | [By 2015-04-07](/reading/module-10) |
+| 12   | 11         | 2015-04-19       | [By 2015-04-14](/reading/module-11) |
+| 13   | 12         | 2015-04-26       | [By 2015-04-21](/reading/module-12) |
+| 14   | 13         | 2015-05-03       | [By 2015-04-28](/reading/module-13) |
+| 15   | Final Prep | N/A              | N/A                                 |
+
+The Midterm will take place on Tuesday, April 26, from 435pm-550pm (during
+class)
+The Final will take place on Tuesday, May 19, 530pm-730pm (per the USF Final
+Exam Schedule)
+
+### Office Hours ###
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left;" colspan="2">On campus / Zoom</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width: 120px;">Tuesdays</td>
+      <td>330pm-430pm, 630pm-830pm</td>
+    </tr>
+    <tr>
+      <td style="width: 120px;">Thursdays</td>
+      <td>330pm-430pm</td>
+    </tr>
+  </tbody>
+</table>
+
+<!--
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left;" colspan="2">Virtual / Zoom</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="width: 120px;">Mondays</td>
+      <td>7pm-9pm</td>
+    </tr>
+  </tbody>
+</table>
+-->
+
+Since lectures take place on Tues/Thurs from 435pm-550pm, some of you will not
+be able to attend.  Barring any technical issues, I will be simulcasting the
+lectures via Zoom and also recording them.  Tuesdays will primarily be a
+"lecture" and Thursdays will be more of a structured office hours.
+
+For those who will be attending primarily by recording, I have additional
+office hours on Tuesdays from 630pm to 830pm.  I will treat 630pm-730pm as
+traditional office hours and 730pm-830pm as an alternate, condensed lecture for
+those who are unable to attend earlier in the day.  
+
+The Zoom link for lectures is:
+
+http://bit.ly/hs-614-lecture
+
+The Zoom link for virtual office hours is:
+
+http://bit.ly/andrew-nguyen-meeting-room
 <hr>
 ### Prerequisite ###
 HS 608, or programming experience in Python
