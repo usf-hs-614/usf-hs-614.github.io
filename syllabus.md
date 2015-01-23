@@ -31,7 +31,7 @@ This course consists of 2 class meetings each week.  Tuesday's meeting will be a
 you will have done any required readings prior to the Tuesday meeting so that we
 can have an engaging discussion.  Thursdays will be more of a structured office
 hours where I will offer specific technical guidance for the week's project.
-To maximize your benefit, it is expected that you at least begin the project
+To maximize your benefit, it is expected that you have started the project
 prior to Thursday's meeting.  Projects will be due the following Sunday.
 
 Here is the schedule for the semester (which may be updated as the course
