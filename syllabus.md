@@ -13,6 +13,7 @@ permalink: /syllabus/
 ### Andrew Nguyen, PhD ###
 ### Cowell 210 / 415-422-4722 ###
 ### [andrew.nguyen@usfca.edu](mailto:andrew.nguyen@usfca.edu) ###
+###** EMAIL IS THE BEST WAY TO CONTACT ME **###
 <hr>
 ### Office Hours ###
 | On campus &nbsp;&nbsp;&nbsp;&nbsp; |   |
