@@ -136,7 +136,8 @@ By the end of the course, students shall be able to:
    clinicial decision support systems within healthcare
 2. Process and normalize healthcare data for analysis
 3. Apply various statistical and machine learning algorithms to healthcare data
-4. Visualize and communicate the results of applied analytics
+4. Evaluate the performance of learning algorithms
+5. Visualize and communicate the results of applied analytics
 
 ### Textbooks ###
 - Flach, P. (2012).  Machine Learning: The Art and Science of Algorithms that Make
