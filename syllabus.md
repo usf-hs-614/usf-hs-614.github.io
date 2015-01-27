@@ -55,7 +55,7 @@ progresses):
 | 14   | 13         | 2015-05-03       | [By 2015-04-28](/reading/module-13) |
 | 15   | Final Prep | N/A              | N/A                                 |
 
-The Midterm will take place on Tuesday, April 26, from 435pm-550pm (during
+The Midterm will take place on Thursday, March 26, from 435pm-550pm (during
 class)
 The Final will take place on Tuesday, May 19, 530pm-730pm (per the USF Final
 Exam Schedule)
