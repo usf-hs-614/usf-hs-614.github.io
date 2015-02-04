@@ -13,6 +13,10 @@ has been canceled, I thought this was still a good opportunity to connect you
 with a company that we're setting up a corporate partnership with - [IMO -
 Intelligent Medical Objects](https://www.e-imo.com/).  
 
+Here is a
+[link](https://docs.google.com/a/usfca.edu/file/d/0B-5GjaosMAovSlZtRENRUm51a00/edit?usp=drivesdk)
+to an IMO sales sheet.
+
 While their products are focused more toward material covered in HS 611, this
 discussion should help on several levels:
 
