@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Update: Required packages
+title: Update - Required packages
 summary:
 status: draft
 hn-discussion:
