@@ -8,7 +8,7 @@ comments: true
 date: 2015-02-09 16:46:49
 ---
 
-Thanks to Nikhil for catching and error in the hs-614-requirements.txt that I
+Thanks to Nikhil for catching an error in the hs-614-requirements.txt that I
 sent out a couple days ago.  The link in the previous post has been updated and
 is available again here:
 http://usf-hs-614.github.io/files/hs-614-requirements.txt
