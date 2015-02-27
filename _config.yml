@@ -20,7 +20,7 @@ name: "Andrew Nguyen"
 author: "Andrew Nguyen"
 author_image: "/assets/images/author.png"
 
-paginate:	5
+paginate: 20	
 
 url: "http://usf-hs-614.github.io" # the base hostname & protocol for your site
 baseurl: ""
