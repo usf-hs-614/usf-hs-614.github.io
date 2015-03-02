@@ -12,7 +12,7 @@ Here is the
 [link](https://docs.google.com/a/usfca.edu/file/d/0B-5GjaosMAovX00xOHRaQTgtZkU/edit?usp=drivesdk) for Tuesday's lecture.
 
 Here is the
-[link](https://docs.google.com/a/usfca.edu/file/d/0B-5GjaosMAovX00xOHRaQTgtZkU/edit?usp=drivesdk)
+[link](https://docs.google.com/a/usfca.edu/file/d/0B-5GjaosMAovXzNmdDhwYzFGUUU/edit?usp=drivesdk)
 for Thursday's lecture.
 
 They failed to copy completely last night so I recopied them to Google Drive
