@@ -5,5 +5,6 @@ permalink: /reading/module-7/
 ---
 ### Required Reading ###
 - Distance-based clustering - Flach, Chapter 8.4, pp 245-253
+- Hierarchical clustering - Flach, Chapter 8.5, pp 253-258
 
-Required number of pages: 8
+Required number of pages: 13

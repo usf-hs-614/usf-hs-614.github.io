@@ -44,15 +44,14 @@ progresses):
 | 3    | 3          | 2015-02-15       | [By 2015-02-10](/reading/module-3)  |
 | 4    | 4          | 2015-02-22       | [By 2015-02-17](/reading/module-4)  |
 | 5    | 5          | 2015-03-01       | [By 2015-02-24](/reading/module-5)  |
-| 6    | 6          | 2015-03-08       | [By 2015-03-03](/reading/module-6)  |
-| 7    | 7          | 2015-03-15       | [By 2015-03-10](/reading/module-7)  |
-| 8    | 8          | 2015-03-22       | [By 2015-03-17](/reading/module-8)  |
-| 9    | Midterm    | N/A              | N/A                                 |
-| 10   | 9          | 2015-04-05       | [By 2015-03-31](/reading/module-9)  |
-| 11   | 10         | 2015-04-12       | [By 2015-04-07](/reading/module-10) |
-| 12   | 11         | 2015-04-19       | [By 2015-04-14](/reading/module-11) |
-| 13   | 12         | 2015-04-26       | [By 2015-04-21](/reading/module-12) |
-| 14   | 13         | 2015-05-03       | [By 2015-04-28](/reading/module-13) |
+| 6,7  | 6          | 2015-03-08       | [By 2015-03-03](/reading/module-6)  |
+| 8    | Midterm    | N/A              | N/A                                 |
+| 9    | 7          | 2015-04-06       | [By 2015-03-31](/reading/module-7)  |
+| 10   | 8          | 2015-04-13       | [By 2015-04-07](/reading/module-8)  |
+| 11   | 9          | 2015-04-20       | [By 2015-04-14](/reading/module-9)  |
+| 12   | 10         | 2015-04-27       | [By 2015-04-21](/reading/module-10) |
+| 13   | 11         | 2015-05-04       | [By 2015-04-28](/reading/module-11) |
+| 14   | 12         | 2015-05-11       | [By 2015-05-05](/reading/module-12) |
 | 15   | Final Prep | N/A              | N/A                                 |
 
 The Midterm will take place on Thursday, March 26, from 435pm-550pm (during

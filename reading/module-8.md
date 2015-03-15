@@ -4,6 +4,6 @@ title: Module 8 - Reading
 permalink: /reading/module-8/
 ---
 ### Required Reading ###
-- Hierarchical clustering - Flach, Chapter 8.5, pp 253-258
+- Naive bayes - Flach, Chapter 9.2, pp 273-282
 
-Required number of pages: 5
+Required number of pages: 9
