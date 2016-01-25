@@ -8,7 +8,7 @@ permalink: /syllabus/
 ### School of Nursing and Health Professions ###
 <hr>
 ### HS 614 - Clinical Decision Support and Data Analytics ###
-### Spring 2015 ###
+### Spring 2016 ###
 <hr>
 ### Andrew Nguyen, PhD ###
 ### Cowell 210 / 415-422-4722 ###
@@ -19,17 +19,18 @@ permalink: /syllabus/
 This will be an extremely fast-paced class since there is **A LOT** of material
 to cover.  The general structure for each module is:
 
-1. Review all material prior to Tuesday's class and start project 
-2. Tuesdays will be an interactive discussion and should give you all of the
-   necessary "theory" to complete the assignment
-3. Thursdays will be a structured office hours to help you with the week's
-   project
+1. Review all material prior to Thursday's class and start project 
+2. The first half of the class will be an interactive discussion and should
+   give you all of the necessary "theory" to complete the assignment
+3. The second half of the class will be a structured OH to help you with the
+   project itself.  Many of these will have a structured set of exercises to help
+   you along.
 4. Projects are due on Sunday
 
-This course consists of 2 class meetings each week.  Tuesday's meeting will be a
+This course consists of 1 class meeting each week.  The first half will be a
 "lecture" though it will be more of an interactive discussion.  I expect that
-you will have done any required readings prior to the Tuesday meeting so that we
-can have an engaging discussion.  Thursdays will be more of a structured office
+you will have done any required readings prior to the meeting so that we
+can have an engaging discussion.  The second half will be more of a structured office
 hours where I will offer specific technical guidance for the week's project.
 To maximize your benefit, it is expected that you have started the project
 prior to Thursday's meeting.  Projects will be due the following Sunday.
@@ -39,24 +40,26 @@ progresses):
 
 | Week | Module     | Project Due Date | Required Reading |
 |:----:|:----------:|:----------------:|:----------------:|
-| 1    | 1          | 2015-02-01       | [By 2015-01-27](/reading/module-1)  |
-| 2    | 2          | 2015-02-08       | [By 2015-02-03](/reading/module-2)  |
-| 3    | 3          | 2015-02-15       | [By 2015-02-10](/reading/module-3)  |
-| 4    | 4          | 2015-02-22       | [By 2015-02-17](/reading/module-4)  |
-| 5    | 5          | 2015-03-01       | [By 2015-02-24](/reading/module-5)  |
-| 6,7  | 6          | 2015-03-08       | [By 2015-03-03](/reading/module-6)  |
-| 8    | Midterm    | N/A              | N/A                                 |
-| 9    | 7          | 2015-04-06       | [By 2015-03-31](/reading/module-7)  |
-| 10   | 8          | 2015-04-13       | [By 2015-04-07](/reading/module-8)  |
-| 11   | 9          | 2015-04-20       | [By 2015-04-14](/reading/module-9)  |
-| 12   | 10         | 2015-04-27       | [By 2015-04-21](/reading/module-10) |
-| 13   | 11         | 2015-05-04       | [By 2015-04-28](/reading/module-11) |
-| 14   | 12         | 2015-05-11       | [By 2015-05-05](/reading/module-12) |
-| 15   | Final Prep | N/A              | N/A                                 |
+| 1    | 1          | 2016-02-07       | [By 2016-01-28](/reading/module-1)  |
+| 2    | 2          | 2016-02-14       | [By 2016-02-04](/reading/module-2)  |
+| 3    | 3          | 2016-02-21       | [By 2016-02-11](/reading/module-3)  |
+| 4    | 4          | 2016-02-28       | [By 2016-02-18](/reading/module-4)  |
+| 5    | 5          | 2016-03-06       | [By 2016-02-25](/reading/module-5)  |
+| 6    | 6          | 2016-03-13       | [By 2016-03-03](/reading/module-6)  |
+| 7    | Review     | N/A              | N/A                                 |
+| 8    | Break      | N/A              | N/A                                 |
+| 9    | Midterm    | N/A              |                                     |
+| 10   | 7          | 2016-04-10       | [By 2016-03-31](/reading/module-7)  |
+| 11   | 8          | 2016-04-17       | [By 2016-04-07](/reading/module-8)  |
+| 12   | 9          | 2016-04-24       | [By 2016-04-14](/reading/module-9)  |
+| 13   | 10         | 2016-05-01       | [By 2016-04-21](/reading/module-10) |
+| 14   | 11         | 2016-05-08       | [By 2016-04-28](/reading/module-11) |
+| 15   | 12         | 2016-05-15       | [By 2016-05-05](/reading/module-12) |
+| 16   | Review     | N/A              | N/A                                 |
+| 17   | Final      | N/A              | N/A                                 |
 
-The Midterm will take place on Thursday, March 26, from 435pm-550pm (during
-class)
-The Final will take place on Tuesday, May 19, 530pm-730pm (per the USF Final
+The Midterm will take place on Thursday, March 24 (during class)
+The Final will take place on Wednesday, May 18, 3pm-5pm (per the USF Final
 Exam Schedule)
 
 ### Office Hours ###
@@ -68,12 +71,8 @@ Exam Schedule)
   </thead>
   <tbody>
     <tr>
-      <td style="width: 120px;">Tuesdays</td>
-      <td>330pm-430pm, 630pm-830pm</td>
-    </tr>
-    <tr>
       <td style="width: 120px;">Thursdays</td>
-      <td>330pm-430pm</td>
+      <td>9-11am</td>
     </tr>
   </tbody>
 </table>
@@ -87,22 +86,15 @@ Exam Schedule)
   </thead>
   <tbody>
     <tr>
-      <td style="width: 120px;">Mondays</td>
-      <td>7pm-9pm</td>
+      <td style="width: 120px;" colspan="2">By Appointmenttd>
     </tr>
   </tbody>
 </table>
 -->
 
-Since lectures take place on Tues/Thurs from 435pm-550pm, some of you will not
+Since lectures take place on Thurs from 1245pm-330pm, some of you may not
 be able to attend.  Barring any technical issues, I will be simulcasting the
-lectures via Zoom and also recording them.  Tuesdays will primarily be a
-"lecture" and Thursdays will be more of a structured office hours.
-
-For those who will be attending primarily by recording, I have additional
-office hours on Tuesdays from 630pm to 830pm.  I will treat 630pm-730pm as
-traditional office hours and 730pm-830pm as an alternate, condensed lecture for
-those who are unable to attend earlier in the day.  
+lectures via Zoom and also recording them.
 
 The Zoom link for lectures is:
 
@@ -123,7 +115,7 @@ of the organizational, cultural, regulatory, and legal implications of using
 analytics in the clinical environment. The course continues with a survey of
 statistical and machine learning techniques including both supervised and
 unsupervised learning. Supporting topics such as feature extraction and
-measuring performance will be woven in througout the course. The course ends
+measuring performance will be woven in throughout the course. The course ends
 with a quick review of visualization techniques and the importance of effective
 communication of the results and output of analytics systems, especially in the
 clinical context.
@@ -187,8 +179,26 @@ Programming assignments will be submitted through Github's Pull Request
 mechanism.  If you are not familiar with this, please consult with your
 classmates or come see me in office hours.  Assignments will be rigorously and
 objectively graded by an autograder.  If your assignment cannot be run by the
-autograder, you will receive a zero.  Otherwise, your grade will be determined
-by the number of test cases that your code passes.
+autograder, you will receive a zero. 
+
+The assignments in this course are worth 20 points each.  The writing
+assignments will be graded for both content and general writing structure
+(e.g. citations, grammar, spelling, etc.).  The programming assignments will be
+graded as follows:
+
+1. If your code passes all provided unit tests, you will receive 15 points.  If
+   your code fails any of the tests, you will receive 0 points.
+2. The remaining 5 points will be based on a manual code review to include
+   elements such as adherence to coding conventions, documentation, etc.
+
+You may discuss the programming assignments with your fellow classmates and
+teammates.  However, each student is required to submit their own assignments to
+the grading system.  As you can see from the grading breakdown, the assignments
+are essentially pass/fail.  You are provided with all of the tests so it is up
+to you to ensure that your submissions pass all of the tests.  I expect that you
+"commit often" so that I can see your train of thought as you write your code.
+If you submit your assignments with a single commit, you will receive a 0 for
+the manual code review portion of the assignment.
 
 ### Code Reviews ###
 Code reviews are very common in software engineering/development.  Prior to
@@ -217,10 +227,14 @@ a code review will automatically be triggered.  However, a code review does not
 imply that you are being suspected of cheating.
 
 ### Midterm and Final ###
-There will be a midterm between modules 8 and 9 and a final exam at the end of
-the course.  Both of these will require that you physically take the exam in
-person, on campus.  If you are unable to, please come see me in office hours so
-that we can discuss alternatives.
+There will be a midterm and a final exam.  Both of these will require that you
+physically take the exam in person, on campus.  If you are unable to, please
+come see me in office hours so that we can discuss alternatives.  
+
+Both exams will involve programming.  If you do not have a laptop that you can
+bring with you to campus, please come see me ASAP.
+
+The exams are each worth 25% of your overall grade. 
 
 ### Learning Outcomes ###
 By the end of this course, you will be able to:
@@ -278,36 +292,12 @@ can get a piece of paper and show it off to people.
 | 60-61 | D- |
 | 0-59  | F  |
 
-Each assignment (writing and programming) is worth 10 points, each exam is worth
-20 points.  The total possible number of points is 170.  There will be no extra
-credit available.
+The assignments are 50% of your overall grade and each exam is 25% of your
+overall grade.  While there will be enrichment "opportunities", these are
+ungraded - there will be no extra credit available.
 
 ### Late / Missed Assignments ###
-Late assignments will be accepted but with the following penalty schedule:
-
-Within 24 hours of the due date and time: 1/4 of available points
-
-Within 48 hours of the due date and time: 1/2 of available points
-
-Within 72 hours of the due date adn time: 3/4 of the available points
-
-Assignments will not be accepted past 72 hours of the due date and time.
-
-To avoid any confusion, here is an example:
-
-If the due date is Friday, 2014-08-15 at 23:59:59 Pacific Time, then:
-
-Anything submitted from Saturday, 2014-08-16 at 00:00:00 to 2014-08-16 at
-23:59:59 will incur a deduction of 1/4 of available points for the assignment.  
-
-Anything submitted from Sunday, 2014-08-17 at 00:00:00 to 2014-08-17 at 23:59:59
-will incur a deduction of 1/2 of the available points for the assignment.  
-
-Anything submitted from Monday, 2014-08-18 at 00:00:00 to 2014-08-18 at 23:59:59
-will incur a deduction of 3/4 of the available points for the assignment.  
-
-From 2014-08-19 at 00:00:00 and onwards, the assignment will not receive any
-points but you are welcome to submit the assignment for grading and feedback.
+Late assignments will not be accepted.
 
 **If you have extenuating circumstances, please come see me to discuss (prior to
 the assignment deadline.**
@@ -315,7 +305,8 @@ the assignment deadline.**
 ### Expected Time Commitment ###
 As a graduate level course, you are expected to spend **AT LEAST 12 hours per
 week** (and likely more) on this course, split between the course material and
-assignments.  Given that this a highly technical course that focuses on the
+assignments.  Previous students have reported upwards of 20-30 hours for a given
+assignment.  Given that this a highly technical course that focuses on the
 application of key principles, you may end up spending much more time on
 assignments than course lectures.  If you are a part-time student and/or are
 taking another highly intensive course, you may consider decreasing your course
