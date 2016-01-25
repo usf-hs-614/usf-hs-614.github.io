@@ -4,6 +4,8 @@ redcarpet:
   extensions: ["autolink", "no_intra_emphasis", "tables"]
 highlighter: pygments
 
+exclude: ["archives"]
+
 # Site settings
 title: "HS 614"
 description: > # this means to ignore newlines until "email:"
