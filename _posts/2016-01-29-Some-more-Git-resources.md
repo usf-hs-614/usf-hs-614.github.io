@@ -8,7 +8,7 @@ comments: true
 date: 2016-01-29 11:29:47
 ---
 
-As I mentioned in class, here is the [mini-course]() that Nikhil put together.
+As I mentioned in class, here is the [mini-course](http://usf-hs-611.github.io/git-web-course/) that Nikhil put together.
 
 In addition, here are some other resources that I've looked at briefly.
 Remember, not all resources work for everyone and it's largely a matter of
