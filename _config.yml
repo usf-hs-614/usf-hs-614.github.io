@@ -2,7 +2,7 @@
 markdown: kramdown
 redcarpet:
   extensions: ["autolink", "no_intra_emphasis", "tables"]
-highlighter: pygments
+highlighter: rouge
 
 exclude: ["archives"]
 
