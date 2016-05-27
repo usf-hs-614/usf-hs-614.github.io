@@ -11,14 +11,16 @@ date: 2016-05-27 09:49:55
 It seems that Canvas cannibalized the entirety of my message except for the stats:
 
 Min: 60%
+
 Max: 102%
+
 Median: 90%
+
 Mean: 87%
+
 Std Dev: 10%
 
-The histogram for the course grades can be found at:
-
-https://drive.google.com/file/d/0B-5GjaosMAovcld6TE1HUmVVcWs/view?usp=sharing
+(Course histogram)[https://drive.google.com/file/d/0B-5GjaosMAovcld6TE1HUmVVcWs/view?usp=sharing
 
 As you can see, the class did very well overall so there will be no curve
 applied.
