@@ -20,7 +20,7 @@ Mean: 87%
 
 Std Dev: 10%
 
-(Course histogram)[https://drive.google.com/file/d/0B-5GjaosMAovcld6TE1HUmVVcWs/view?usp=sharing
+[Course histogram](https://drive.google.com/file/d/0B-5GjaosMAovcld6TE1HUmVVcWs/view?usp=sharing)
 
 As you can see, the class did very well overall so there will be no curve
 applied.
