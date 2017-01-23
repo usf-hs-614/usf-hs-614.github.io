@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Module 1 - Reading
-permalink: /reading/module-1/
+title: Reading - Week 1
+permalink: /reading/def-cog-org-legal
 ---
 ### Required Reading ###
 - Definition, scope, challenges, general overview - Greenes, Chapter 1.1-1.4 (optional: 1.4.5.1), pp 3-35

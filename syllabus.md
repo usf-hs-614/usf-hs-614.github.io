@@ -4,22 +4,36 @@ title: Syllabus - HS 614
 permalink: /syllabus/
 ---
 
-### University of San Francisco ###
-### School of Nursing and Health Professions ###
+## University of San Francisco
+
+### School of Nursing and Health Professions
+
 <hr>
-### HS 614 - Clinical Decision Support and Data Analytics ###
-### Spring 2016 ###
+
+## HS 614 - Clinical Decision Support and Data Analytics ###
+
+### Spring 2017 ###
+
 <hr>
+
 ### Andrew Nguyen, PhD ###
-### Cowell 210 / 415-422-4722 ###
+
+### Cowell 210 ###
+
 ### [andrew.nguyen@usfca.edu](mailto:andrew.nguyen@usfca.edu) ###
-###** EMAIL IS THE BEST WAY TO CONTACT ME **###
+
+<br/>
+
+### EMAIL IS THE BEST WAY TO CONTACT ME ###
+
 <hr>
-### Course Format / Structure###
+
+## Course Format / Structure
+<br/>
 This will be an extremely fast-paced class since there is **A LOT** of material
 to cover.  The general structure for each module is:
 
-1. Review all material prior to Thursday's class and start project 
+1. Review all material prior to Monday's class and start project
 2. The first half of the class will be an interactive discussion and should
    give you all of the necessary "theory" to complete the assignment
 3. The second half of the class will be a structured OH to help you with the
@@ -33,32 +47,14 @@ you will have done any required readings prior to the meeting so that we
 can have an engaging discussion.  The second half will be more of a structured office
 hours where I will offer specific technical guidance for the week's project.
 To maximize your benefit, it is expected that you have started the project
-prior to Thursday's meeting.  Projects will be due the following Sunday.
+prior to Monday's meeting.  Projects will be due the following Friday.
 
-Here is the schedule for the semester (which may be updated as the course
-progresses):
+This course is scheduled with the expectation that you start the lab prior to
+the Monday class in which we'll discuss the salient topics.  This is not a
+traditional lecture-style course so it's imperative that you come having
+already completed the reading and started the lab.
 
-| Week | Module     | Project Due Date | Required Reading |
-|:----:|:----------:|:----------------:|:----------------:|
-| 1    | 1          | 2016-02-07       | [By 2016-01-28](/reading/module-1)  |
-| 2    | 2          | 2016-02-14       | [By 2016-02-04](/reading/module-2)  |
-| 3    | 3          | 2016-02-21       | [By 2016-02-11](/reading/module-3)  |
-| 4    | 4          | 2016-02-28       | [By 2016-02-18](/reading/module-4)  |
-| 5    | 5          | 2016-03-06       | [By 2016-02-25](/reading/module-5)  |
-| 6    | 6          | 2016-03-13       | [By 2016-03-03](/reading/module-6)  |
-| 7    | Review     | N/A              | N/A                                 |
-| 8    | Break      | N/A              | N/A                                 |
-| 9    | Midterm    | N/A              |                                     |
-| 10   | 7          | 2016-04-10       | [By 2016-03-31](/reading/module-7)  |
-| 11   | 8          | 2016-04-17       | [By 2016-04-07](/reading/module-8)  |
-| 12   | 9          | 2016-04-24       | [By 2016-04-14](/reading/module-9)  |
-| 13   | 10         | 2016-05-01       | [By 2016-04-21](/reading/module-10) |
-| 14   | 11         | 2016-05-08       | [By 2016-04-28](/reading/module-11) |
-| 15   | 12         | 2016-05-15       | [By 2016-05-05](/reading/module-12) |
-| 16   | Review     | N/A              | N/A                                 |
-| 17   | Final      | N/A              | N/A                                 |
-
-The Midterm will take place on Thursday, March 24 (during class)
+The Midterm will take place on Monday, March 20 (during class)
 The Final will take place on Wednesday, May 18, 3pm-5pm (per the USF Final
 Exam Schedule)
 
@@ -71,8 +67,8 @@ Exam Schedule)
   </thead>
   <tbody>
     <tr>
-      <td style="width: 120px;">Thursdays</td>
-      <td>9-11am</td>
+      <td style="width: 120px;">Monday</td>
+      <td>5pm-7pm</td>
     </tr>
   </tbody>
 </table>
@@ -92,22 +88,12 @@ Exam Schedule)
 </table>
 -->
 
-Since lectures take place on Thurs from 1245pm-330pm, some of you may not
-be able to attend.  Barring any technical issues, I will be simulcasting the
-lectures via Zoom and also recording them.
-
-The Zoom link for lectures is:
-
-http://bit.ly/hs-614-lecture
-
-The Zoom link for virtual office hours is:
-
-http://bit.ly/andrew-nguyen-meeting-room
-<hr>
 ### Prerequisite ###
+
 HS 608, or programming experience in Python
 
 ### Course Description ###
+
 This course provides students with an introduction to the foundations of
 clinical decision support and the application of analytics within healthcare.
 The course begins with a high level survey of clinical decision support and many
@@ -121,6 +107,7 @@ communication of the results and output of analytics systems, especially in the
 clinical context.
 
 ### Course Objectives ###
+
 By the end of the course, students shall be able to:
 
 1. Describe the organizational, cultural, regulator, and legal implications of
@@ -131,15 +118,18 @@ By the end of the course, students shall be able to:
 5. Visualize and communicate the results of applied analytics
 
 ### Textbooks ###
+
 - Flach, P. (2012).  Machine Learning: The Art and Science of Algorithms that Make
 Sense of Data
 - Greenes, R. (2nd, 2014).  Clinical Decision Support - The Road to Broad
 Adoption.
 
 ### Required Readings in Addition to Textbook ###
+
 Announcements will be made via Canvas and email
 
 ### Course Changes ###
+
 Please check for announcements via Canvas - these are considered the definitive
 source of announcements.  However, the announcement may just be a link to a post
 on the [Course Blog](http://usf-hs-614.github.io).  Any announcements made on
@@ -152,6 +142,7 @@ of the conflict and canceling the session.  After the operation, I will
 coordinate a makeup session as necessary.
 
 ### Computer / Software Requirements ###
+
 For information on Canvas, please visit:
 http://www.usfca.edu/its/learning/canvas/forstudents/
 
@@ -166,6 +157,7 @@ final assignment requires that your computer have an active internet connection
 since it requires frequent communication with an external, web-based resource.
 
 ### Assignments ###
+
 This course contains writing assignments, programming assignments, and
 discussions.
 
@@ -179,7 +171,7 @@ Programming assignments will be submitted through Github's Pull Request
 mechanism.  If you are not familiar with this, please consult with your
 classmates or come see me in office hours.  Assignments will be rigorously and
 objectively graded by an autograder.  If your assignment cannot be run by the
-autograder, you will receive a zero. 
+autograder, you will receive a zero.
 
 The assignments in this course are worth 20 points each.  The writing
 assignments will be graded for both content and general writing structure
@@ -201,6 +193,7 @@ If you submit your assignments with a single commit, you will receive a 0 for
 the manual code review portion of the assignment.
 
 ### Code Reviews ###
+
 Code reviews are very common in software engineering/development.  Prior to
 committing and merging any code to their central software repository, companies
 will have a different developer review the code.  This usually becomes a dialog
@@ -220,7 +213,7 @@ approaches that you may not have considered.
 Though unfortunate, cheating is also fairly common in courses with programming
 assignments.  While code reviews are a great educational tool in general, they
 also serve as protection for those students who put in the time and effort to
-complete their assignments.  
+complete their assignments.
 
 If your code appears to be similar to that of other students or online sources,
 a code review will automatically be triggered.  However, a code review does not
@@ -229,14 +222,15 @@ imply that you are being suspected of cheating.
 ### Midterm and Final ###
 There will be a midterm and a final exam.  Both of these will require that you
 physically take the exam in person, on campus.  If you are unable to, please
-come see me in office hours so that we can discuss alternatives.  
+come see me in office hours so that we can discuss alternatives.
 
 Both exams will involve programming.  If you do not have a laptop that you can
 bring with you to campus, please come see me ASAP.
 
-The exams are each worth 25% of your overall grade. 
+The exams are each worth 25% of your overall grade.
 
 ### Learning Outcomes ###
+
 By the end of this course, you will be able to:
 
 1. Define clinical decision support
@@ -259,7 +253,7 @@ assignments, programming assignments, discussions, and exams.
 The assignments are designed to be exercises for you to develop your knowledge
 and also for me to benchmark and gauge your understanding of the material.  If
 you approach the assignments as an opportunity to both develop and demonstrate
-your knowledge, then I will be able to identify and help fill any gaps.   
+your knowledge, then I will be able to identify and help fill any gaps.
 
 Should you choose to take shortcuts and turn in work that is not wholly your
 own, you are doing a huge disservice to yourself, and you will struggle in
@@ -276,6 +270,7 @@ and professionally.  Please DO NOT treat this as just another checkbox so you
 can get a piece of paper and show it off to people.
 
 ### Graduate SONHP Grading Scale ###
+
 | Score &nbsp;&nbsp;&nbsp; | Grade |
 |--------------------------|-------|
 | 100   | A+ |
@@ -297,12 +292,14 @@ overall grade.  While there will be enrichment "opportunities", these are
 ungraded - there will be no extra credit available.
 
 ### Late / Missed Assignments ###
+
 Late assignments will not be accepted.
 
 **If you have extenuating circumstances, please come see me to discuss (prior to
 the assignment deadline.**
 
 ### Expected Time Commitment ###
+
 As a graduate level course, you are expected to spend **AT LEAST 12 hours per
 week** (and likely more) on this course, split between the course material and
 assignments.  Previous students have reported upwards of 20-30 hours for a given
@@ -313,16 +310,18 @@ taking another highly intensive course, you may consider decreasing your course
 load.
 
 ### The Learning and Writing Center ###
+
 The Learning &amp; Writing Center provides assistance to students in their academic
 pursuits. Services are free to all USF students and include individual and group
 tutoring appointments, writing assistance provided by Rhetoric and Composition
 professors, and consultations to develop specific study strategies and
-approaches. 
+approaches.
 
 The Learning &amp; Writing Center: Cowell Hall, Room 215; 415‐422‐6713;
-www.usfca.edu/lwc 
+www.usfca.edu/lwc
 
 ### Students with Disabilities ###
+
 If you are a student with a disability or disabling condition, or if you think
 you may have a disability, please contact USF Student Disability Services (SDS)
 at 415 422-2613 within the first week of class, or immediately upon onset of
@@ -333,6 +332,7 @@ we will discuss your needs for this course.  For more information, please visit:
 http://www.usfca.edu/sds or call (415) 422-2613.
 
 ### Academic Integrity ###
+
 The USF Academic Honor Code can be found at [the following
 link](http://www.usfca.edu/uploadedFiles/Destinations/Offices_and_Services/Student_Conduct/Fogcutter/HonorCode_2013.pdf)
 
@@ -347,7 +347,7 @@ Your writing assignments will be processed through tools such as turnitin.com.
 
 The easiest way to avoid any issues is to NEVER look at another team's code and
 to NEVER let another team look at your code.  You can discuss high level ideas
-and API documentation but do not share code, ever. 
+and API documentation but do not share code, ever.
 
 Any situations where academic dishonesty and/or violations of the Academic Honor
 Code are suspected will be referred to the Dean’s office for review.
@@ -356,6 +356,7 @@ If you have any questions, or concerns about academic integrity within the
 course, please come see me immediately.
 
 ### Team-based Assignments ###
+
 For both the writing and programming assignments in this course, you will be
 working in teams of 2 (or 3 if there are an odd number of students in the
 class).  Please be sure to coordinate with one another and ensure that your
@@ -364,4 +365,4 @@ assignments will be submitted via Github's Pull Request mechanism, it is
 **highly** recommended that you also use Github to facilitate collaboration.
 
 If you are unable to participate as part of a team for any reason ASAP, come see
-me to discuss.  
+me to discuss.
