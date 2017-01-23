@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading - DUE 2017-01-30
+title: Reading for 2017-01-30
 permalink: /reading/def-cog-org-legal
 ---
 ### Required Reading ###
