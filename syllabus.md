@@ -156,6 +156,15 @@ connection in order to download the necessary libraries and documentation.  The
 final assignment requires that your computer have an active internet connection
 since it requires frequent communication with an external, web-based resource.
 
+### Grading Breakdown
+
+The course is structured as follows:
+
+Writing Assignments (23%)
+Programming Labs (39%)
+Midterm (19%)
+Final Exam (19%)
+
 ### Assignments ###
 
 This course contains writing assignments, programming assignments, and
@@ -220,14 +229,13 @@ a code review will automatically be triggered.  However, a code review does not
 imply that you are being suspected of cheating.
 
 ### Midterm and Final ###
+
 There will be a midterm and a final exam.  Both of these will require that you
 physically take the exam in person, on campus.  If you are unable to, please
 come see me in office hours so that we can discuss alternatives.
 
 Both exams will involve programming.  If you do not have a laptop that you can
 bring with you to campus, please come see me ASAP.
-
-The exams are each worth 25% of your overall grade.
 
 ### Learning Outcomes ###
 
