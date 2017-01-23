@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading - Week 1
+title: Reading - DUE 2017-01-30
 permalink: /reading/def-cog-org-legal
 ---
 ### Required Reading ###
