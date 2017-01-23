@@ -120,9 +120,14 @@ By the end of the course, students shall be able to:
 ### Textbooks ###
 
 - Flach, P. (2012).  Machine Learning: The Art and Science of Algorithms that Make
-Sense of Data
+Sense of Data.
 - Greenes, R. (2nd, 2014).  Clinical Decision Support - The Road to Broad
 Adoption.
+- Raschka, Sebastian. (2015). Python Machine Learning.
+
+Optional Textbook:
+
+- Bowles, Michael. (2015). Machine Learning in Python.
 
 ### Required Readings in Addition to Textbook ###
 
