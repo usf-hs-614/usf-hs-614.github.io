@@ -160,10 +160,10 @@ since it requires frequent communication with an external, web-based resource.
 
 The course is structured as follows:
 
-Writing Assignments (23%)
-Programming Labs (39%)
-Midterm (19%)
-Final Exam (19%)
+- Writing Assignments (23%)
+- Programming Labs (39%)
+- Midterm (19%)
+- Final Exam (19%)
 
 ### Assignments ###
 
