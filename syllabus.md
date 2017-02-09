@@ -39,7 +39,6 @@ to cover.  The general structure for each module is:
 3. The second half of the class will be a structured OH to help you with the
    project itself.  Many of these will have a structured set of exercises to help
    you along.
-4. Projects are due on Sunday
 
 This course consists of 1 class meeting each week.  The first half will be a
 "lecture" though it will be more of an interactive discussion.  I expect that
