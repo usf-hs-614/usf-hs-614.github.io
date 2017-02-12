@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Module 2 - Reading
+title: Reading for 2017-02-12
 permalink: /reading/module-2/
 ---
 ### Required Reading ###
