@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading for 2017-02-12
-permalink: /reading/module-2/
+permalink: /reading/forces-features-knowledge-acq
 ---
 ### Required Reading ###
 - Driving forces for CDS - Greenes, Chapter 2.2-2.3, pp 81-98
