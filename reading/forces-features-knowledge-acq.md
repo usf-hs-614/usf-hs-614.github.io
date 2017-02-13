@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading for 2017-02-12
+title: Reading for 2017-02-13
 permalink: /reading/forces-features-knowledge-acq
 ---
 ### Required Reading ###
